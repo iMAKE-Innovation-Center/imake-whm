@@ -24,9 +24,14 @@ authors:
     #avatar: /assets/images/anna_patrick.png
 
   figure_3:
-    name: Jonathan Lopez & Jeffery Dixon
-    display_name: Jonathan Lopez & Jeffery Dixon
+    name: Jonathan Lopez and Jeffery Dixon
+    display_name: Jonathan Lopez and Jeffery Dixon
     #avatar: 
+
+  figure_4:
+    name: Cynthia Roman & Jaired Jawed
+    display_name: Cynthia Roman & Jaired Jawed
+    #avatar
 
 
 # Plugins
