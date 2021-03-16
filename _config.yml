@@ -23,6 +23,11 @@ authors:
     display_name: Anna Timarong & Patrick Saade
     #avatar: /assets/images/anna_patrick.png
 
+  figure_3:
+    name: Jonathan Lopez and Jeffery Dixon
+    display_name: Jonathan Lopez and Jeffery Dixon
+    #avatar: 
+
 
 # Plugins
 plugins:
