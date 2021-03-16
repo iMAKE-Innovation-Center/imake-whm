@@ -20,6 +20,6 @@ In conclusion Grace Brewster Murray Hopper was an amazing female computer scient
 
 
 ## References:
-https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service 
-https://computerhistory.org/profile/grace-murray-hopper/ 
-https://news.harvard.edu/gazette/story/2014/12/grace-hopper-computing-pioneer/ 
+* https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service 
+* https://computerhistory.org/profile/grace-murray-hopper/ 
+* https://news.harvard.edu/gazette/story/2014/12/grace-hopper-computing-pioneer/ 
