@@ -33,6 +33,11 @@ authors:
     display_name: Cynthia Roman & Jaired Jawed
     #avatar
 
+  figure_5:
+    name: Melissa Ruano
+    display_name: Melissa Ruano
+    avatar: /assets/images/melissa_ruano.png
+
 
 # Plugins
 plugins:
