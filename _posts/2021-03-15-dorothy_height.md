@@ -10,6 +10,8 @@ beforetoc: Dorothy Height, the godmother of the women's movement because of her 
 
 toc: true
 ---
+![](/imake-whm/assets/images/dorothy_height-2.png)
+
 <!-- English Section -->
 # English
 ## The CEO who innovates the tech landscape.
